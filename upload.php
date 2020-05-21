@@ -21,7 +21,7 @@ function display_filesize($filesize) {
 
 // configuration options
 $overwrite = true;  // allow overwriting with the same name
-$img_ext = array('.jpg','.gif','.bmp','.png', '.jpeg', '.svg');
+$img_ext = array('.jpg','.gif','.png', '.jpeg');
 $forbidden_filenames = array('index.html', 'index.htm', 'index.php');
 
 $max_filesize = 1342177280;
