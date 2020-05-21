@@ -96,7 +96,7 @@ function export_as_txt($password, $username){
 	
 	$current = file_get_contents($file);	
 	$current .= "Password: " . $password . "\n \n \n";	
-	$current .= "Created today " . date("Y/m/d") . " with free secure password generator by xyluz.com";	
+	$current .= "Created today " . date("Y/m/d") . " with free secure password generator by matkhau.herokuapp.com";	
 	file_put_contents($file, $current);
 	return $file;
 
