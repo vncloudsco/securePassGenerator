@@ -92,7 +92,7 @@ $username = generateUsername();
 
 	     <p class="form-signin" style="text-align: center">
 	     contribute: <br>
-	     	<a href="https://github.com/xyluz/securePassGenerator.git" target="_blank"><img src="http://www.freeiconspng.com/uploads/github-circle-mascot-git-icon-6.png" style="width: 15%"></a>
+	     	<a href="https://github.com/xyluz/securePassGenerator.git" target="_blank"><img src="https://www.freeiconspng.com/uploads/github-circle-mascot-git-icon-6.png" style="width: 15%"></a>
 
 	     </p>
 	     <script>
